@@ -4,7 +4,7 @@ This repo houses some of my scripts for windows administration.
 
 ## Scripts
 
-### Cloudflare_RDP_Client_Tunnel_Setup_And_Teardown
+### Cloudflare_Tunnel_Management
 
 Its purpose is to easily manage multiple tunnels
 Contains:
